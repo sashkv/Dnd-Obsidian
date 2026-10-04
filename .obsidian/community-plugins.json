@@ -5,12 +5,12 @@
   "obsidian-style-settings",
   "obsidian-icon-folder",
   "obsidian-minimal-settings",
-  "obsidian-git",
   "table-editor-obsidian",
   "obsidian-code-block-enhancer",
   "cm-editor-syntax-highlight-obsidian",
   "nldates-obsidian",
   "file-explorer-plus",
   "obsidian-day-planner",
-  "obsidian-file-color"
+  "obsidian-file-color",
+  "obsidian-git"
 ]
