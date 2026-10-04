@@ -1,0 +1,6 @@
+.CodeMirror {
+    background-image: url(https://klike.net/uploads/posts/2019-11/1574605248_9.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; 
+}
