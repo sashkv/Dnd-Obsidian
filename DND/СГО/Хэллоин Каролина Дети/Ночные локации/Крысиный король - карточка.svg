@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1055" height="1491" viewBox="0 0 1055 1491">
+<rect width="1055" height="1491" fill="#f3ead7"/>
+<rect x="24" y="24" width="1007" height="1443" rx="18" fill="none" stroke="#4b2f24" stroke-width="4"/>
+<style>
+.title{font:700 58px Georgia,serif;fill:#7a1f18}
+.sub{font:700 24px Georgia,serif;fill:#2b211c}
+.h{font:700 28px Georgia,serif;fill:#fff}
+.body{font:22px Georgia,serif;fill:#2b211c}
+.small{font:19px Georgia,serif;fill:#2b211c}
+.stat{font:700 24px Georgia,serif;fill:#2b211c;text-anchor:middle}
+.val{font:700 28px Georgia,serif;fill:#2b211c;text-anchor:middle}
+.box{fill:#fffaf0;stroke:#6a4636;stroke-width:2}
+.head{fill:#7b3528}
+</style>
+<text x="55" y="92" class="title">Крысиный король</text>
+<text x="58" y="132" class="sub">Средний босс для героев 3–4 уровня</text>
+<text x="58" y="175" class="small">Существо из переплетённых крысиных тел под старым цирковым плащом.</text>
+<text x="58" y="202" class="small">Харизматичный, мерзкий и опасный хозяин мышиного представления.</text>
+
+<rect x="50" y="235" width="450" height="245" rx="10" class="box"/>
+<rect x="50" y="235" width="450" height="48" rx="10" class="head"/>
+<text x="70" y="268" class="h">ОСНОВНЫЕ ПОКАЗАТЕЛИ</text>
+<text x="72" y="322" class="body">КД: 15</text>
+<text x="72" y="358" class="body">Хиты: 68</text>
+<text x="72" y="394" class="body">Скорость: 30 фт</text>
+<text x="72" y="430" class="body">Размер: Средний</text>
+<text x="72" y="466" class="body">Тип: монстр / рой</text>
+
+<rect x="50" y="500" width="450" height="210" rx="10" class="box"/>
+<rect x="50" y="500" width="450" height="48" rx="10" class="head"/>
+<text x="70" y="533" class="h">ХАРАКТЕРИСТИКИ</text>
+<text x="88" y="585" class="stat">СИЛ</text><text x="156" y="585" class="stat">ЛОВ</text><text x="224" y="585" class="stat">ТЕЛ</text><text x="292" y="585" class="stat">ИНТ</text><text x="360" y="585" class="stat">МДР</text><text x="428" y="585" class="stat">ХАР</text>
+<text x="88" y="630" class="val">18</text><text x="156" y="630" class="val">14</text><text x="224" y="630" class="val">16</text><text x="292" y="630" class="val">10</text><text x="360" y="630" class="val">12</text><text x="428" y="630" class="val">14</text>
+<text x="88" y="668" class="stat">(+4)</text><text x="156" y="668" class="stat">(+2)</text><text x="224" y="668" class="stat">(+3)</text><text x="292" y="668" class="stat">(+0)</text><text x="360" y="668" class="stat">(+1)</text><text x="428" y="668" class="stat">(+2)</text>
+
+<rect x="50" y="730" width="450" height="205" rx="10" class="box"/>
+<rect x="50" y="730" width="450" height="48" rx="10" class="head"/>
+<text x="70" y="763" class="h">СПАСБРОСКИ И НАВЫКИ</text>
+<text x="70" y="815" class="small">Спасброски: Сила +6, Телосложение +5,</text>
+<text x="70" y="843" class="small">Мудрость +3</text>
+<text x="70" y="890" class="small">Навыки: Атлетика +6, Восприятие +3</text>
+
+<rect x="50" y="955" width="450" height="430" rx="10" class="box"/>
+<rect x="50" y="955" width="450" height="48" rx="10" class="head"/>
+<text x="70" y="988" class="h">ОСОБЕННОСТИ</text>
+<text x="70" y="1040" class="body" font-weight="700">Тысяча тел.</text>
+<text x="70" y="1075" class="small">Преимущество на спасброски против:</text>
+<text x="70" y="1105" class="small">опутывания, захвата, сбивания с ног,</text>
+<text x="70" y="1135" class="small">паралича и оглушения.</text>
+<text x="70" y="1178" class="small">Один раз за бой, провалив такой</text>
+<text x="70" y="1208" class="small">спасбросок, Король может вместо этого</text>
+<text x="70" y="1238" class="small">автоматически преуспеть.</text>
+
+<rect x="525" y="235" width="480" height="780" rx="10" class="box"/>
+<rect x="525" y="235" width="480" height="48" rx="10" class="head"/>
+<text x="545" y="268" class="h">ДЕЙСТВИЯ</text>
+<text x="545" y="320" class="body" font-weight="700">Удар крысиным кулаком</text>
+<text x="545" y="352" class="small">+6 к попаданию, 5 фт. Урон: 2d8+4 дробящего.</text>
+
+<text x="545" y="405" class="body" font-weight="700">Связующая стая (перезарядка 5–6)</text>
+<text x="545" y="437" class="small">Цель в 30 фт: спасбросок Силы или Ловкости Сл 14.</text>
+<text x="545" y="467" class="small">Провал: 2d6 колющего, скорость 0, нет реакций,</text>
+<text x="545" y="497" class="small">атаки по цели с преимуществом до конца её</text>
+<text x="545" y="527" class="small">следующего хода. Провал на 5+ — дополнительно</text>
+<text x="545" y="557" class="small">оглушение до начала следующего хода цели.</text>
+
+<text x="545" y="615" class="body" font-weight="700">Взрыв стаи (1/бой)</text>
+<text x="545" y="647" class="small">При падении ниже половины хитов распадается на крыс.</text>
+<text x="545" y="677" class="small">Все в радиусе 10 фт: Ловкость Сл 14.</text>
+<text x="545" y="707" class="small">Провал: 3d6 колющего + отталкивание 10 фт.</text>
+<text x="545" y="737" class="small">Успех: половина урона, без отталкивания.</text>
+<text x="545" y="767" class="small">После этого перемещается на 20 фт и собирается</text>
+<text x="545" y="797" class="small">в свободной точке.</text>
+
+<rect x="525" y="1035" width="480" height="185" rx="10" class="box"/>
+<rect x="525" y="1035" width="480" height="48" rx="10" class="head"/>
+<text x="545" y="1068" class="h">РЕАКЦИЯ</text>
+<text x="545" y="1120" class="body" font-weight="700">Крысиный распад (1/раунд)</text>
+<text x="545" y="1152" class="small">После получения урона от атаки перемещается</text>
+<text x="545" y="1182" class="small">на 15 фт без провоцирования атак. Нельзя, если обездвижен.</text>
+
+<rect x="525" y="1240" width="480" height="145" rx="10" class="box"/>
+<rect x="525" y="1240" width="480" height="48" rx="10" class="head"/>
+<text x="545" y="1273" class="h">ТАКТИКА</text>
+<text x="545" y="1320" class="small">Контроль → давление в ближнем бою → отход реакцией.</text>
+<text x="545" y="1350" class="small">Ниже 34 хитов — «Взрыв стаи».</text>
+
+<text x="55" y="1435" class="small">Для двух героев: 50–55 хитов, удар 2d6+4.</text>
+</svg>
