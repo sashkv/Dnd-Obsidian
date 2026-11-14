@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"ac04aca52523defc","x":-460,"y":-340,"width":400,"height":320,"type":"file","file":"DND/СГО/Эльфийская граница ( III Игра )/Эльфийский Гарнизон (2 игра)/I Акт - Допросы.md"},
+		{"id":"00c5f4deeb2e905b","x":-322,"y":-440,"width":125,"height":60,"color":"2","type":"text","text":"Старт игры"},
+		{"id":"d6ca4b4b7e024336","type":"text","text":"Суприм","x":-320,"y":100,"width":120,"height":60},
+		{"id":"d9a11a25be159df1","type":"file","file":"DND/СГО/Эльфийская граница ( III Игра )/Эльфийский Гарнизон (2 игра)/I Акт - Допросы.md","x":-1060,"y":300,"width":400,"height":540},
+		{"id":"3ccea658fe5c07b6","x":-820,"y":100,"width":120,"height":60,"type":"text","text":"Трипл кир"},
+		{"id":"e5cf7f53f5cf611f","type":"file","file":"DND/СГО/Эльфийская граница ( III Игра )/Эльфийский Гарнизон (2 игра)/I Акт - Допросы.md","x":-460,"y":300,"width":400,"height":540},
+		{"id":"a268f3edd07cae8f","type":"file","file":"DND/СГО/Эльфийская граница ( III Игра )/Эльфийский Гарнизон (2 игра)/I Акт - Допросы.md","x":160,"y":300,"width":400,"height":540},
+		{"id":"296b05065f97a331","type":"text","text":"Суприм","x":240,"y":100,"width":120,"height":60},
+		{"id":"b955fc404121ad05","type":"text","text":"АКТ 2 Перемещения","x":-306,"y":1033,"width":186,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"86831a2543fe1138","fromNode":"ac04aca52523defc","fromSide":"bottom","toNode":"3ccea658fe5c07b6","toSide":"top"},
+		{"id":"09bd317aede67768","fromNode":"00c5f4deeb2e905b","fromSide":"bottom","toNode":"ac04aca52523defc","toSide":"top"},
+		{"id":"58bc32ca03faf644","fromNode":"3ccea658fe5c07b6","fromSide":"bottom","toNode":"d9a11a25be159df1","toSide":"top"},
+		{"id":"1127b79b906ad6d5","fromNode":"ac04aca52523defc","fromSide":"bottom","toNode":"d6ca4b4b7e024336","toSide":"top"},
+		{"id":"9b65e44ac329289b","fromNode":"d6ca4b4b7e024336","fromSide":"bottom","toNode":"e5cf7f53f5cf611f","toSide":"top"},
+		{"id":"cdc158368965b735","fromNode":"ac04aca52523defc","fromSide":"bottom","toNode":"296b05065f97a331","toSide":"top"},
+		{"id":"abe6a3f0fce58a76","fromNode":"296b05065f97a331","fromSide":"bottom","toNode":"a268f3edd07cae8f","toSide":"top"},
+		{"id":"600efc74982b1319","fromNode":"d9a11a25be159df1","fromSide":"bottom","toNode":"b955fc404121ad05","toSide":"top"},
+		{"id":"0711656dd8cec15c","fromNode":"e5cf7f53f5cf611f","fromSide":"bottom","toNode":"b955fc404121ad05","toSide":"top"},
+		{"id":"a6abface29ffde95","fromNode":"a268f3edd07cae8f","fromSide":"bottom","toNode":"b955fc404121ad05","toSide":"top"}
+	]
+}
