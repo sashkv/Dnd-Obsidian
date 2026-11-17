@@ -10,5 +10,6 @@
   "showViewHeader": true,
   "baseFontSizeAction": true,
   "textFontFamily": "",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "showRibbon": true
 }
